@@ -1,0 +1,17 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+# Pycharm:
+/.idea
+/temp
+/log
+# config
+DataSetConfig.ini
+
+# model
+/model
+/DDB
